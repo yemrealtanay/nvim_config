@@ -23,13 +23,13 @@ For other installation options: https://github.com/neovim/neovim/wiki/Installing
 
 space + sv **split windows vertically**
 
-space + sh"  **split windows horiz**
+space + sh  **split windows horiz**
 
 space + sx **close current split window**
 
 space + to **open new tab**
 
-space + tx" **close current tab**
+space + tx **close current tab**
 
 space + tn && space + tp ** go to next  and previous tab**
 
