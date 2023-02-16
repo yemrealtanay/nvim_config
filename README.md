@@ -31,6 +31,8 @@ space + to **open new tab**
 
 space + tx **close current tab**
 
-space + tn && space + tp ** go to next  and previous tab**
+space + tn && space + tp **go to next  and previous tab**
 
 space + ff **file finder** 
+
+space + e **file tree open/close**
